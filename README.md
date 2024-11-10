@@ -1,6 +1,6 @@
-# 🎞MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions
+# 🎞 ViML: A Video, Music, Language Unified Dataset for Understanding and Generation
 
-MMTrail is a large-scale multi-modality video-language dataset with over 20M trailer clips, featuring high-quality multimodal captions that integrate context, visual frames, and background music, aiming to enhance cross-modality studies and fine-grained multimodal-language model training.
+ViML is a large-scale multi-modality video-language dataset with over 20M trailer clips, featuring high-quality multimodal captions that integrate context, visual frames, and background music, aiming to enhance cross-modality studies and fine-grained multimodal-language model training.
 **In short, we provided 2M+ LLaVA Video captions, 2M+ Music captions, and 60M+ Coca frame captions for 27.1khrs of Trailer videos.**
 
 
